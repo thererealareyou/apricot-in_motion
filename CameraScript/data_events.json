@@ -1,0 +1,38 @@
+{
+    "0": {
+        "name": "Локомотив-Кубань — Пари Нижний Новгород",
+        "date": "26 декабря, 20:00",
+        "place": "Баскет-холл",
+        "link": "/krasnodar/sport/basketball-lokomotiv-kuban-pari-nizhnii-novgorod?source=rubric#schedule"
+    },
+    "1": {
+        "name": "Локомотив-Кубань — ЦСКА",
+        "date": "22 декабря, 15:00",
+        "place": "Баскет-холл",
+        "link": "/krasnodar/sport/basketball-lokomotiv-kuban-cska?source=rubric#schedule"
+    },
+    "2": {
+        "name": "Локомотив-Кубань — МБА-МАИ",
+        "date": "18 декабря, 20:00",
+        "place": "Баскет-холл",
+        "link": "/krasnodar/sport/basketball-lokomotiv-kuban-mba?source=rubric#schedule"
+    },
+    "3": {
+        "name": "Дрифт-Юг Matsuri",
+        "date": "7 и 8 декабря",
+        "place": "Усадьба Фамилия",
+        "link": "/krasnodar/sport/drift-iug-matsuri?source=rubric#schedule"
+    },
+    "4": {
+        "name": "Краснодар — Локомотив",
+        "date": "вс 8 декабря, 19:30",
+        "place": "Краснодар",
+        "link": "/krasnodar/sport/football-krasnodar-lokomotiv?source=rubric#schedule"
+    },
+    "5": {
+        "name": "Гвардия — Протон",
+        "date": "9 и 10 декабря",
+        "place": "Ледовый дворец Ice Palace",
+        "link": "/krasnodar/sport/hockey-gvardiia-proton?source=rubric#schedule"
+    }
+}
